@@ -1,0 +1,28 @@
+/*Langdon*/
+@font-face {
+    font-family: "Langdon";
+    src: url("../fonts/Langdon.woff") format("woff");
+    font-weight: normal;
+}
+/*Forum*/
+@font-face {
+    font-family: "Forum";
+    src: url("../fonts/Forum-Regular.woff") format("woff");
+    font-weight: normal;
+}
+/*Source Serif Pro*/
+@font-face {
+    font-family: "SourceSerifPro Bold";
+    src: url("../fonts/SourceSerifPro-Bold.woff") format("woff");
+    font-weight: bold;
+}
+@font-face {
+    font-family: "SourceSerifPro Semibold";
+    src: url("../fonts/SourceSerifPro-Semibold.woff") format("woff");
+    font-weight: 600;
+}
+@font-face {
+    font-family: "SourceSerifPro Regular";
+    src: url("../fonts/SourceSerifPro-Regular.woff") format("woff");
+    font-weight: normal;
+}

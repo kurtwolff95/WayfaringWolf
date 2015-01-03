@@ -1,0 +1,22 @@
+/*
+Theme Name: Wayfaring Wolf
+Theme URI:
+Version: 0.1.0
+Description: Wayfaring Wolf
+Date: 03/01/15
+Author: Design Minds (Kurtis Wolff)
+Author URI: http://designminds.com.au
+GitHub Theme URI: https://github.com/kurtwolff95/WayfaringWolf
+GitHub Branch: master
+Tags: design minds blank theme wayfaring wolf simple beautiful
+*/
+/*Fonts*/
+@import url('styles/fonts.css');
+/*Normalize Styling*/
+@import url('styles/normalize.css');
+/*Styling*/
+@import url('styles/style.css');
+/*Mobile Styling*/
+@import url('styles/mobile.css');
+/*Responsive Styling*/
+@import url('styles/response.css');

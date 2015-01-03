@@ -1,0 +1,38 @@
+/*** Alternate viewing ***/
+@media 
+only screen and (-webkit-min-device-pixel-ratio: 1.1),
+only screen and (   min--moz-device-pixel-ratio: 1.1),
+only screen and (     -o-min-device-pixel-ratio: 10/9),
+only screen and (        min-device-pixel-ratio: 1.1),
+only screen and (              min-resolution: 2dppx), {
+	body, input, textarea
+	{
+		font-size: 100%;
+		line-height: 1.2;
+	}
+	textarea
+	{
+		width: 100%;
+	}
+	#headertitle 
+	{
+		font-size: 2em !important;
+	}
+	#header 
+	{
+		width: 100% !important;
+	}
+	div#content 
+	{
+		width: auto !important;
+		padding: 0.5em !important;
+	}
+	.entry-content
+	{
+	}
+	iframe
+	{
+		width: 100%;
+		height: auto;
+	}
+}

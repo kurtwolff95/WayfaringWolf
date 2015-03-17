@@ -12,6 +12,12 @@
  
     <meta http-equiv="content-type" content="<?php bloginfo('html_type'); ?>; charset=<?php bloginfo('charset'); ?>" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.5" />
+    <meta name="medium" content="blog">
+    <meta name="keywords" content="website, blog, Kurtis, Wolff, Melbourne, Australia, journey, athiest, religion, contemplation">
+    <meta name="DC.Title" content="Wayfaring Wolf">
+    <meta name="description" content="Kurtis, born in Australia, grew up in a semi-rural city surrounded by things that just didn’t seem right.
+     He had spent most of his life participating in backwards traditions and never felt honestly content.">
+    <meta name="robots" content="index,follow">
     <link rel="stylesheet" type="text/css" href="<?php bloginfo('stylesheet_url'); ?>" />
  
     <?php if ( is_singular() ) wp_enqueue_script( 'comment-reply' ); ?>

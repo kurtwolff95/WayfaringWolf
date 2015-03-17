@@ -51,6 +51,10 @@ body, input, textarea
 	line-height: 1.2;
 	font-size: 100%;
 }
+input, textarea
+{
+	width:100%;
+}
 /* Headings */
 #headertitle 
 {

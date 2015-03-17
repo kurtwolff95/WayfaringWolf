@@ -1,0 +1,557 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"out",
+				"outset"
+			],
+			[
+				"posi",
+				"position"
+			],
+			[
+				"posio",
+				"position"
+			],
+			[
+				"blue",
+				"lightblue"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"webkit-tr",
+				"-webkit-transition"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"box",
+				"box-container"
+			],
+			[
+				"have",
+				"have_posts"
+			],
+			[
+				"test",
+				"testimoniallist"
+			],
+			[
+				"cat",
+				"category_name"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"l",
+				"lastwidth"
+			],
+			[
+				"menu",
+				"menu-main"
+			],
+			[
+				"has",
+				"hastoggled"
+			],
+			[
+				"me",
+				"menu-main"
+			],
+			[
+				"mob",
+				"mobile-navigation-button"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"c",
+				"click"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"align",
+				"align-self"
+			],
+			[
+				"posit",
+				"position"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"disp",
+				"display"
+			],
+			[
+				"min-w",
+				"min-width"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"flex-wra",
+				"-ms-flex-wrap"
+			],
+			[
+				"padin",
+				"padding-top"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"font-famil",
+				"font-family"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"i",
+				"inline"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"vert",
+				"vertical-align"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"rig",
+				"right"
+			],
+			[
+				"text-al",
+				"text-align"
+			],
+			[
+				"heigh",
+				"height"
+			],
+			[
+				"backgr",
+				"background"
+			],
+			[
+				"left",
+				"left"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"co",
+				"column"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"the",
+				"the_title"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"nava",
+				"navigationbuttonimage"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"sc",
+				"screenpixelratio"
+			],
+			[
+				"device",
+				"devicePixelRatio"
+			],
+			[
+				"de",
+				"devicePixelRatio"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 2464,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "page.php",
+			"settings":
+			{
+				"buffer_size": 887,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 400.0,
+		"history":
+		[
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp/www/wpdevelopment/wp-content/themes/WayfaringWolf"
+	],
+	"file_history":
+	[
+		"/C/wamp/www/wpdevelopment/wp-content/themes/WayfaringWolf/header.php",
+		"/C/wamp/www/designminds/wp-content/themes/design-minds-theme/js/adminbump.js",
+		"/C/wamp/www/designminds/wp-content/themes/design-minds-theme/style.css",
+		"/C/wamp/www/designminds/wp-content/themes/design-minds-theme/styles/response.css",
+		"/C/wamp/www/designminds/wp-content/themes/design-minds-theme/styles/style.css",
+		"/C/wamp/www/designminds/wp-content/themes/design-minds-theme/header.php",
+		"/C/wamp/www/designminds/wp-content/themes/design-minds-theme/functions.php",
+		"/C/wamp/www/designminds/wp-content/themes/design-minds-theme/index.php",
+		"/C/wamp/www/designminds/wp-content/themes/design-minds-theme/footer.php",
+		"/C/wamp/www/dogknees/wp-content/themes/DogKnees/page-{blog}.php",
+		"/C/wamp/www/dogknees/wp-content/themes/DogKnees/index.php",
+		"/C/wamp/www/eesq/wp-content/themes/EESQ/footer.php",
+		"/C/wamp/www/eesq/wp-content/themes/EESQ/index.php",
+		"/C/wamp/www/designminds/wp-content/themes/design-minds-theme/js/mobile.js",
+		"/C/wamp/www/dogknees/wp-content/themes/DogKnees/js/sticky.js",
+		"/C/wamp/www/dogknees/wp-content/themes/DogKnees/functions.php",
+		"/C/wamp/www/dogknees/wp-config.php",
+		"/C/wamp/www/dogknees/wp-content/themes/DogKnees/header.php",
+		"/C/wamp/www/wayfaringwolves/wp-content/themes/WayfaringWolves/style.css",
+		"/C/Users/c4-ko_000/Downloads/wp-config.php",
+		"/C/Users/c4-ko_000/Documents/www/wordpress/wp-content/upgrade/wordpress-32.tmp/wordpress/wp-content/plugins/akismet/_inc/akismet.css",
+		"/C/wamp/www/wpdevelopment/wp-config.php",
+		"/C/wamp/www/wayfaringwolves/wp-content/themes/WayfaringWolf/style.css",
+		"/C/wamp/www/wayfaringwolves/wp-config.php",
+		"/C/wamp/www/dogknees/wp-content/themes/DogKnees/style.css",
+		"/C/wamp/www/designminds/wp-content/themes/design-minds-theme/styles/mobile.css",
+		"/C/wamp/www/dogknees/wp-content/themes/DogKnees/styles/style.css",
+		"/C/wamp/www/dogknees/wp-content/themes/DogKnees/styles/mobile.css",
+		"/C/wamp/www/wpdevelopment/wp-content/themes/WayfaringWolf/index.php",
+		"/C/Users/c4-ko_000/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/wamp/www/wordpress/wp-content/themes/DogKnees/style.css",
+		"/C/wamp/www/dogkneesgames/wp-config.php",
+		"/C/wamp/www/wordpress/wp-config.php",
+		"/C/wamp/www/designminds/wp-content/themes/designminds/style.css",
+		"/C/wamp/www/wordpress/wp-content/uploads/2014/06/style.css",
+		"/C/wamp/www/eesq/wp-content/themes/EESQ1.0.2/style.css",
+		"/C/wamp/www/designminds/wp-content/themes/designminds/styles/style.css",
+		"/C/wamp/www/designminds/wp-content/themes/designminds/styles/mobile.css",
+		"/C/wamp/www/designminds/wp-content/themes/designminds/header.php",
+		"/C/wamp/www/designminds/wp-content/themes/designminds/footer.php",
+		"/C/wamp/www/designminds/wp-content/themes/designminds/index.php",
+		"/C/wamp/www/designminds/wp-content/themes/designminds/functions.php",
+		"/C/wamp/www/wordpress/wp-content/themes/DogKnees/header.php",
+		"/C/wamp/www/wordpress/wp-content/themes/DogKnees/styles/fonts.css",
+		"/C/wamp/www/designminds/wp-content/themes/designminds0.0.03/mapbox.php",
+		"/C/wamp/www/wordpress/wp-content/themes/DogKnees/js/sticky.js",
+		"/C/wamp/www/wordpress/wp-content/themes/DogKnees/footer.php",
+		"/C/wamp/www/wordpress/wp-content/themes/DogKnees/styles/style.css",
+		"/C/wamp/www/wordpress/wp-content/themes/DogKnees/styles/response.css",
+		"/C/wamp/www/wordpress/wp-content/themes/DogKnees/styles/mobile.css",
+		"/C/wamp/www/wordpress/wp-content/themes/DogKnees/fonts/Arimo.otf",
+		"/C/wamp/www/wordpress/wp-content/themes/DogKnees/category.php",
+		"/C/wamp/www/wordpress/wp-content/themes/DogKnees/author.php",
+		"/C/wamp/www/wordpress/wp-content/themes/DogKnees/archives.php",
+		"/C/wamp/www/wordpress/wp-content/themes/DogKnees/archive.php",
+		"/C/wamp/www/wordpress/wp-content/themes/DogKnees/404.php",
+		"/C/wamp/www/wordpress/wp-content/themes/DogKnees/page-{blog}.php",
+		"/C/wamp/www/wordpress/wp-content/themes/DogKnees/index.php",
+		"/C/wamp/www/wordpress/wp-content/themes/DogKnees/single.php",
+		"/C/wamp/www/wordpress/wp-content/themes/DogKnees/search.php",
+		"/C/wamp/www/wordpress/wp-content/themes/DogKnees/page.php",
+		"/C/wamp/www/wordpress/wp-content/themes/DogKnees/page-{project}.php",
+		"/C/wamp/www/wordpress/wp-content/themes/DogKnees/page-{index}.php",
+		"/C/wamp/www/wordpress/wp-content/themes/DogKnees/header-{index}.php",
+		"/C/wamp/www/wordpress/wp-content/themes/DogKnees/styles/mobile.php"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"id=\"grid-wrapper",
+			"id=\"design",
+			"service-wrapper",
+			"font-size",
+			"imag"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2464,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								489,
+								489
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "page.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 887,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "WayfaringWolfProject.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 155.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

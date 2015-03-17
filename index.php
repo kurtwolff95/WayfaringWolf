@@ -10,7 +10,7 @@
 		<?php while ( have_posts() ) : the_post() ?>
 
 		<?php /* Create a div with a unique ID thanks to the_ID() and semantic classes with post_class() */ ?>
-		                <div id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
+		                <div id="post-<?php the_ID(); ?>" <?php post_class(); ?> >
 		<?php /* an h2 title */ ?>
 		                    <h2 class="entry-title"><a href="<?php the_permalink(); ?>" title="<?php printf( __('Permalink to %s', 'hbd-theme'), the_title_attribute('echo=0') ); ?>" rel="bookmark"><?php the_title(); ?></a></h2>
 		                    <span class="entry-date"><h2><span class="published" title="<?php the_time('d-m-y') ?>"><?php the_time('d-m-y'); ?></span></h2></span>
